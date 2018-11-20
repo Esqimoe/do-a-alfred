@@ -2,4 +2,4 @@
 
 ## Description
 
-Runs rm -rf /dir_name or
+Nukes everything in current directory
